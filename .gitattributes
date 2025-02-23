@@ -1,0 +1,5 @@
+*.sh linguist-vendored
+*.py linguist-vendored
+*.css linguist-detectable=true
+*.html linguist-detectable=true
+*.js linguist-detectable=true
