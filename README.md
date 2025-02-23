@@ -42,9 +42,13 @@ We are building an intelligent web-based platform that delivers personalized lea
 
 🌟 How It Works?
 🔹 Tell us what you want to learn – Simply enter your topic, available learning time, preferred language, and current knowledge level.
+
 🔹 AI-Generated Learning Plans – Our Generative AI crafts customized roadmaps, schedules, and quizzes, estimating the time required for each milestone.
+
 🔹 Smart Resource Recommendations – Get the best learning materials through an intelligent API-driven system.
+
 🔹 Dynamic Personalization – Your roadmap adapts in real-time based on quizzes, feedback, and progress tracking.
+
 🔹 Visualized Growth – Monitor your learning curve with insightful progress visualizations.
 
 🚀 Master new skills, at your pace, with AI-powered guidance! 🚀
