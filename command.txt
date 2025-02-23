@@ -1,0 +1,2 @@
+.\humanaize\Scripts\python.exe -m flask run
+
