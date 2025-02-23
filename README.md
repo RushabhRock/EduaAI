@@ -41,6 +41,7 @@ npm start
 We are building an intelligent web-based platform that delivers personalized learning roadmaps along with curated resources, helping users master new topics efficiently. Our platform doesn't just guide you—it adapts, tracks, and evolves with your learning journey!
 
 🌟 How It Works?
+
 🔹 Tell us what you want to learn – Simply enter your topic, available learning time, preferred language, and current knowledge level.
 
 🔹 AI-Generated Learning Plans – Our Generative AI crafts customized roadmaps, schedules, and quizzes, estimating the time required for each milestone.
