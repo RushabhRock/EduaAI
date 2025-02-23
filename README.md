@@ -40,7 +40,7 @@ npm start
 ## What Exactly will this Platform do?
 We are building an intelligent web-based platform that delivers personalized learning roadmaps along with curated resources, helping users master new topics efficiently. Our platform doesn't just guide you—it adapts, tracks, and evolves with your learning journey!
 
-🌟 How It Works?
+## 🌟 How It Works?
 
 🔹 Tell us what you want to learn – Simply enter your topic, available learning time, preferred language, and current knowledge level.
 
